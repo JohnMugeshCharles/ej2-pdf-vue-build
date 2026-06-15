@@ -1,0 +1,35 @@
+{
+    "build": {
+        "pdfviewer": {
+          "SampleorderJSON": {
+            "File Viewers & Editors": [
+              "PDF Viewer"
+            ]
+          }
+        },
+        "spreadsheet": {
+          "SampleorderJSON": {
+            "Grids": [
+              "Spreadsheet"
+            ]
+          }
+        },
+        "document-editor": {
+          "SampleorderJSON": {
+            "File Viewers & Editors": [
+              "Word Processor"
+            ]
+          }
+        },
+        "pdf": {
+          "SampleorderJSON": {
+            "Document Processing Library": [
+              "PDF"
+            ]
+          }
+        }
+
+    }
+}
+
+ 
